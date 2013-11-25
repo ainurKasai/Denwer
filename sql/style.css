@@ -1,0 +1,29 @@
+@charset "utf8";
+
+body{
+background:gold;
+}
+h3 {
+    font-size: 1.5em; 
+    color: royalblue	; 
+	background:gold	;
+}
+
+   table, tr, td{
+  border-style: solid; 
+    border-width: 3px; 
+    border-color: dodgerblue; 
+   }
+tr	{
+color: blue;
+font-size:2em;
+	}
+	td
+	{
+	color:blue;
+	background:gray	;
+	}
+	.even { 
+ background: #dcdcdc;	
+}
+	
